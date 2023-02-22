@@ -2,7 +2,6 @@
   "df398548f8a62281045d60332ffc2116": "drone",
   "b53ec037bfc94371eccf82ffc5edea65": "drone\\drone.json?main_board_1",
   "07ded7770e17c37ca61902a785a25190": "drone\\drone.json?main_board_2",
-  "d2f3f9106eec6820322d363e15aa2272": "drone\\PCB_drone.json",
-  "6041bc3881d515836bfe5de8ed4243d1": "esc",
-  "8e4fefcc44e767f2def6d2f155e0f366": "esc\\esc.json?Sheet_1"
+  "294285cb1a7dcd72544b36baa7adcd90": "drone\\drone.json?cpu",
+  "cd16d92373ec8b685dab55a1dd0b7fad": "drone\\PCB_drone_rev_1.json"
 }
